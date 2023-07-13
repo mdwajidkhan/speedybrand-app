@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3f91eaf.css",
-    "main.js": "/static/js/main.a1ea97b8.js",
-    "index.html": "/index.html",
-    "main.c3f91eaf.css.map": "/static/css/main.c3f91eaf.css.map",
-    "main.a1ea97b8.js.map": "/static/js/main.a1ea97b8.js.map"
+    "main.css": "/mdwajidkhan/speedybrand-app/static/css/main.c3f91eaf.css",
+    "main.js": "/mdwajidkhan/speedybrand-app/static/js/main.a1ea97b8.js",
+    "index.html": "/mdwajidkhan/speedybrand-app/index.html",
+    "main.c3f91eaf.css.map": "/mdwajidkhan/speedybrand-app/static/css/main.c3f91eaf.css.map",
+    "main.a1ea97b8.js.map": "/mdwajidkhan/speedybrand-app/static/js/main.a1ea97b8.js.map"
   },
   "entrypoints": [
     "static/css/main.c3f91eaf.css",
